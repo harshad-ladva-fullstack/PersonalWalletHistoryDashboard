@@ -39,7 +39,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 .env setup
 
+```
 MONGODB_URI=<your_database_string>
 JWT_SECRET=<your-demo-secret>
 SUPER_USER_EMAIL=<your-super-admin@example.com>
 SUPER_USER_PASSWORD=<your-super-admin-password>
+```
